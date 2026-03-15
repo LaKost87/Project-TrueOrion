@@ -42,4 +42,5 @@ Keine Rekonstruktion. Keine Schattenkopien. Keine Angriffsfläche.
 Das Projekt befindet sich im frühen Entwicklungsstadium und legt die Grundlage für eine neue Ära digitaler Endgültigkeit.
 
 ## 📜 Lizenz
-Apache‑2.0
+-  Apache‑2.0
+-  GNU AFFERO GENERAL PUBLIC LICENSE
