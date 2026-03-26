@@ -1,0 +1,231 @@
+<?php
+// Optionaler Projekttitel – kann dynamisch gesetzt werden
+$projectName = "Project-TrueOrion";
+?>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title><?php echo $projectName; ?> – Pitch</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0e0e15;
+            color: #e6e6e6;
+            margin: 0;
+            padding: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #7ab4ff;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #1a1a25;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.4);
+        }
+        .section {
+            margin-bottom: 35px;
+        }
+        .highlight {
+            color: #9cd3ff;
+            font-weight: bold;
+        }
+        a {
+            color: #7ab4ff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1><?php echo $projectName; ?></h1>
+    <p><em>Eine Initiative für echte, nachweisbare Datenlöschung in der Cloud.</em></p>
+
+    <div class="section">
+        <h2>🚀 Vision</h2>
+        <p>
+            <?php echo $projectName; ?> erforscht neue Wege, digitale Endgültigkeit möglich zu machen.
+            In einer Welt, in der Daten unendlich kopiert, repliziert und archiviert werden, entsteht ein
+            wachsender Bedarf an Lösungen, die <span class="highlight">echte, überprüfbare Datenlöschung</span>
+            ermöglichen.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>🔍 Problem</h2>
+        <p>
+            Cloud-Daten verschwinden selten wirklich. Backups, Snapshots, Replikationen und Schattenkopien
+            bleiben bestehen – oft unbemerkt. Das führt zu Datenschutzrisiken, Compliance-Problemen und
+            fehlender Transparenz. Unternehmen können heute kaum garantieren, dass Daten vollständig gelöscht wurden.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>💡 Ansatz</h2>
+        <p>
+            <?php echo $projectName; ?> untersucht Technologien, um:
+        </p>
+        <ul>
+            <li>versteckte Datenkopien automatisiert aufzuspüren</li>
+            <li>kryptografische Löschverfahren nutzbar zu machen</li>
+            <li>Cloud-Backups und Snapshots sicher zu bereinigen</li>
+            <li>nachvollziehbare Lösch-Nachweise zu ermöglichen</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🌐 Warum das Projekt spannend ist</h2>
+        <p>
+            Der Markt für sichere Cloud-Datenlöschung ist jung, kaum erschlossen und wächst rasant.
+            <?php echo $projectName; ?> bietet eine seltene Chance, früh an einem Thema mitzuwirken,
+            das technisch anspruchsvoll, gesellschaftlich relevant und wirtschaftlich attraktiv ist.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>🤝 Mitmachen</h2>
+        <p>
+            Das Projekt ist offen für Entwickler:innen, Security-Expert:innen, Cloud-Architekt:innen
+            und Visionäre, die Lust haben, an einer Zukunftslösung mitzuwirken.
+            Jede Initiative – Ideen, Code, Konzepte oder Feedback – ist willkommen.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="section">
+    <h2>📄 Lizenz</h2>
+    <p>
+        Dieses Projekt wird unter der 
+        <a href="LICENSE" target="_blank">GNU AGPLv3</a> veröffentlicht.
+        Die Lizenz stellt sicher, dass Verbesserungen am Code auch der Community zugutekommen
+        und ermöglicht gleichzeitig kommerzielle Nutzung über Dual-Licensing.
+    </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer style="margin-top:40px; font-size:0.9em; opacity:0.8;">
+    <p>
+        © <?php echo date("Y"); ?> Project-TrueOrion — Veröffentlicht unter der 
+        <a href="LICENSE" target="_blank">GNU AGPLv3</a>.
+    </p>
+</footer>
